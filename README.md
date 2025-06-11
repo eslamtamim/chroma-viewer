@@ -12,4 +12,13 @@ A quick viewer for local Chrome DB because we couldn't find anything out there. 
 
 ## Preview
 
-<img width="776" alt="Screenshot 2023-04-18 at 16 42 03" src="https://user-images.githubusercontent.com/3193991/232759961-92cbe9ca-a453-42e2-934f-a963c357546d.png">
+### Data
+
+<img width="776" alt="Screenshot 2023-04-18 at 16 42 03" src="imgs/232759961-92cbe9ca-a453-42e2-934f-a963c357546d.png">
+<br>
+<hr>
+<br>
+
+### Quering
+
+<img width="776" alt="Screenshot 2023-04-18 at 16 42 03" src="imgs/Screenshot 2025-06-11 061928.png">
